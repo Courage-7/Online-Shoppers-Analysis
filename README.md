@@ -52,6 +52,9 @@ The motivation behind this project is to address the issue of low conversion rat
     This embodies the processes or activities and insights acquired during our analysis.
     The insights and recommendations are used to make informed business decsions to incrrease output and what have you.
 
+### Reference Material
+The Data Analysis Workshop
+By Gururajan Govindan , Shubhangi Hora , Konstantin Palagachev
 
 
 
